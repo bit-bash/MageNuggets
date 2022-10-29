@@ -96,7 +96,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-            <AbsDimension x="340" y="-60"/>
+              <AbsDimension x="10" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -128,7 +128,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="190" y="-60"/>
+              <AbsDimension x="40" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -160,7 +160,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="160" y="-60"/>
+              <AbsDimension x="70" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -192,7 +192,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="40" y="-60"/>
+              <AbsDimension x="100" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -224,7 +224,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="10" y="-60"/>
+              <AbsDimension x="130" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -256,7 +256,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="70" y="-60"/>
+              <AbsDimension x="160" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -288,7 +288,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="130" y="-60"/>
+              <AbsDimension x="190" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -320,7 +320,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="100" y="-60"/>
+              <AbsDimension x="220" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -352,7 +352,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="220" y="-60"/>
+              <AbsDimension x="250" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -384,7 +384,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="250" y="-60"/>
+              <AbsDimension x="280" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -416,7 +416,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="280" y="-60"/>
+              <AbsDimension x="310" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -448,7 +448,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="310" y="-60"/>
+              <AbsDimension x="340" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -480,7 +480,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="370" y="-60"/>
+              <AbsDimension x="370" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -512,7 +512,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="400" y="-60"/>
+              <AbsDimension x="400" y="-20"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -547,7 +547,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="340" y="-20"/>
+              <AbsDimension x="10" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -579,7 +579,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="190" y="-20"/>
+              <AbsDimension x="40" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -611,7 +611,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="160" y="-20"/>
+              <AbsDimension x="70" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -643,7 +643,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="40" y="-20"/>
+              <AbsDimension x="100" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -675,7 +675,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="10" y="-20"/>
+              <AbsDimension x="130" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -707,7 +707,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="70" y="-20"/>
+              <AbsDimension x="160" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -739,7 +739,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="130" y="-20"/>
+              <AbsDimension x="190" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -771,7 +771,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="100" y="-20"/>
+              <AbsDimension x="220" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -803,7 +803,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="220" y="-20"/>
+              <AbsDimension x="250" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -835,7 +835,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="250" y="-20"/>
+              <AbsDimension x="280" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -867,7 +867,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="280" y="-20"/>
+              <AbsDimension x="310" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -899,7 +899,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="310" y="-20"/>
+              <AbsDimension x="340" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -931,7 +931,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="370" y="-20"/>
+              <AbsDimension x="370" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -963,7 +963,7 @@
         <Anchors>
           <Anchor point="TOPLEFT">
             <Offset>
-              <AbsDimension x="400" y="-20"/>
+              <AbsDimension x="400" y="-60"/>
             </Offset>
           </Anchor>
         </Anchors>
@@ -972,11 +972,10 @@
             <Texture name="$parentTeleportOribosTexture" file="Interface\Icons\spell_arcane_teleportoribos"/>
           </Layer>
         </Layers>
-        <Attributes>
-          <Attribute name="type1" value="spell"/>
-          <Attribute name="spell" value="344587" type="number"/>
-        </Attributes>
         <Scripts>
+          <OnLoad>
+            self:SetAttribute("type1", "spell") self:SetAttribute("spell", GetSpellInfo(344587))
+          </OnLoad>
           <OnEnter>
             GameTooltip:SetOwner(self, ANCHOR_TOPLEFT); GameTooltip:AddLine("Teleport: Oribos") GameTooltip:Show()
           </OnEnter>
