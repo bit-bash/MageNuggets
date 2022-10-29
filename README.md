@@ -12,6 +12,8 @@ In the portal Dialog Box, when you click on a portal icon, the Dialog Box is now
 
 For those Alliance players used to MageNuggets in the past, I have reordered the teleport/portal icons in sort of an expansion order.
 
+Fixed the Storm Shield portal/teleport icon.
+
 I don't have a Horde Mage character, so I haven't tested anything "For the Horde!".  Also, I have no Moonkin testing either.
 
 Kudos and huge grats to B-Buck for creating this Addon - I am humbled by your 1337 skillz.
